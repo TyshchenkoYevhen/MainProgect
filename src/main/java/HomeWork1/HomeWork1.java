@@ -1,4 +1,4 @@
-package com.company;
+package HomeWork1;
 
 /*public class Main {
 
@@ -130,7 +130,7 @@ public class Main {
 
 //8*. Write a program which prints "Hello world" to the console using methods transformIntToChar and printList only.
 
-public class Main {
+/*public class Main {
 
     public static void main(String[] args) {
         printList(transformIntToChar(72, 69, 108, 108, 111, 32, 87, 111, 114, 108, 100));
@@ -150,4 +150,4 @@ public class Main {
         }
     }
 
-}
+}*/
