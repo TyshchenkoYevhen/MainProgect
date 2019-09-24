@@ -113,3 +113,66 @@ class SecondClass {
         }
     }
 }*/
+
+//2. Print all the numbers from 1 to 100, which are divided by 3 without a remainder.
+//class SecondClass {
+//    public static void main(String[] args) {
+//        for (int i = 0; i <= 100; i++) {
+//            int r = i % 3;
+//            if (r == 0)
+//                System.out.println(i);
+//        }
+//    }
+//}
+
+//3. Fill the array with numbers from 100 to 0.
+
+//import java.util.Arrays;
+//
+//class SecondClass {
+//    public static void main(String[] args) {
+//        int[] Array1 = new int[101];
+//
+//        int i =100;
+//        for(int j = 0; j < 100; j++) {
+//
+//            Array1[j]=i;
+//            i--;
+//
+//        }
+//        System.out.println(Arrays.toString(Array1));
+//
+//    }
+//}
+//4. Given an array of 10 integers. To display the sum of all its elements except the first and last.
+//class SecondClass{
+//
+//    public static void main(String[] args) {
+//
+//        int[] array1 = new int[10];
+//
+//        array1[0]=1;
+//        array1[1]=2;
+//        array1[2]=3;
+//        array1[3]=4;
+//        array1[4]=5;
+//        array1[5]=6;
+//        array1[6]=7;
+//        array1[7]=8;
+//        array1[8]=9;
+//        array1[9]=10;
+//
+//        int sum = 0;
+//
+//        for( int i = 1; i < array1[8]; i++){
+//            sum += array1[i];
+//        }
+//
+//        for( int i = 1; i < array1.length; i++){
+//            System.out.println(array1[i]);
+//        }
+//
+//        System.out.println("Сумма - "+ sum);
+//
+//    }
+//}
