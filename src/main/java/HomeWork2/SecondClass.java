@@ -176,3 +176,148 @@ class SecondClass {
 //
 //    }
 //}
+
+//5. Write a function which calculates and returns the minimum of 4 arguments.
+
+//class SecondClass {
+//    public static void main(String[] args) {
+//        int minOf4Arguments = min(8,2,3,4);
+//        System.out.println(minOf4Arguments);
+//    }
+//
+//    public static int min(int a, int b, int c, int d) {
+//        return min(a, b) < min(c, d) ? min(a, b) : min (c, d);
+//    }
+//
+//    public static int min(int a, int b) {
+//        return (a < b) ? a : b;
+//    }
+//}
+
+
+//import java.util.Arrays;
+//import java.util.Collections;
+//
+//public class SecondClass {
+//    public static void main(String[] args) {
+//        Integer[] numbers = { 8, 2, 6, 7, 0};
+//
+//        int min = (int) Collections.min(Arrays.asList(numbers));
+//        int max = (int) Collections.max(Arrays.asList(numbers));
+//
+//        System.out.println("Min number: " + min);
+//        System.out.println("Max number: " + max);
+//    }
+//}
+
+//6. Write a method named getEvenDigitSum with one parameter of the type "int".
+//       The method should return the sum of even digits within the number. If the number is negative, method should return -1;
+
+
+class SecondClass {
+    public static void main(String[] args) {
+        int getEvenDigitSum = conv(10);
+        System.out.println(getEvenDigitSum);
+    }
+
+    public static int conv(int a) {
+        if (a < 0) return -1;
+        int res = 0;
+        for (int i = 0; i <= a; i++) {
+            if (i % 2 == 0) res += i;
+        }
+
+        return res;
+    }
+}
+
+//8. Write a program which prints the next figure to the console:
+//        **********
+//        **********
+//        **********
+//        **********
+
+//public class SecondClass{
+//    public static void main(String[] args){
+//
+//        for(int i=0; i<4; i++){
+//            for(int j=0; j<10; j++){
+//                System.out.print("* ");
+//            }
+//            System.out.println();
+//        }
+//    }
+//}
+
+//9. Write a program which prints the next figure to the console:
+//        *
+//        **
+//        ***
+//        ****
+//        *****
+//        ******
+//        *******
+//public class SecondClass{
+//    public static void main(String[] args) {
+//
+//        for (int i = 0; i < 1; i++) {
+//            for (int j = 0; j < 1; j++) {
+//                System.out.print("* ");
+//                    }
+//                    System.out.println();
+//                }
+//        for (int i = 2; i <= 2; i++) {
+//            for (int j = 0; j < 2; j++) {
+//                System.out.print("* ");
+//            }
+//            System.out.println();
+//        }
+//        for (int i = 3; i <= 3; i++) {
+//            for (int j = 0; j < 3; j++) {
+//                System.out.print("* ");
+//            }
+//            System.out.println();
+//        }
+//        for (int i = 4; i <= 4; i++) {
+//            for (int j = 0; j < 4; j++) {
+//                System.out.print("* ");
+//            }
+//            System.out.println();
+//        }
+//        for (int i = 5; i <= 5; i++) {
+//            for (int j = 0; j < 5; j++) {
+//                System.out.print("* ");
+//            }
+//            System.out.println();
+//        }
+//        for (int i = 6; i <= 6; i++) {
+//            for (int j = 0; j < 6; j++) {
+//                System.out.print("* ");
+//            }
+//            System.out.println();
+//        }
+//    }
+//}
+//10*. Write a program which prints the next figure to the console:
+//        **********
+//        *           *
+//        *           *
+//        *           *
+//        **********
+//public class SecondClass {
+//    public static void main(String[] args) {
+//
+//        for (int row = 0; row < 10; row++) {
+//            for (int column = 0; column < 10; column++) {
+//                if (row == 0 || row == 9 )
+//                    System.out.print("* ");
+//                else if (column == 0 || column == 9)
+//                    System.out.print("* ");
+//                else
+//                    {System.out.print("  ");}
+//
+//            }
+//            System.out.println();
+//        }
+//    }
+//}
