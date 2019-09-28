@@ -1,7 +1,7 @@
 //package HomeWork4;
 //
 //public class Human {
-//
+
 //    public static void main(String[] args) {
 //        SomePerson Yevhen = new SomePerson();
 //        Yevhen.displayInfo();
