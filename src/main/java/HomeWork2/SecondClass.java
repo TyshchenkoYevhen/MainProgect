@@ -214,22 +214,22 @@ class SecondClass {
 //       The method should return the sum of even digits within the number. If the number is negative, method should return -1;
 
 
-/*class SecondClass {
-   public static void main(String[] args) {
-        int getEvenDigitSum = conv(10);
-        System.out.println(getEvenDigitSum);
-    }
-
-    public static int conv(int a) {
-        if (a < 0) return -1;
-        int b = 0;
-        for (int i = 0; i <= a; i++) {
-            if (i % 2 == 0) b += i;
-        }
-
-        return b;
-    }
-}*/
+//class SecondClass {
+//   public static void main(String[] args) {
+//        int getEvenDigitSum = conv(10);
+//        System.out.println(getEvenDigitSum);
+//    }
+//
+//    public static int conv(int a) {
+//        if (a < 0) return -1;
+//        int b = 0;
+//        for (int i = 0; i <= a; i++) {
+//            if (i % 2 == 0) b += i;
+//        }
+//
+//        return b;
+//    }
+//}
 
 
 
@@ -238,26 +238,26 @@ class SecondClass {
  //       The method should return the greatest common divisor of two numbers.
 
 
-class SecondClass {
-    public static void main(String[] args) {
-        int getGreatestCommonDivisor = div(120,140);
-        System.out.println(getGreatestCommonDivisor);
-    }
-
-    static int div(int first, int second) {
-        if (first < 10 || second < 10)
-            return -1;
-        if (first == 0)
-            return -1;
-        if (second == 0)
-            return -1;
-        for (; ; )
-            if ((first %= second) == 0)
-                return second;
-            else if ((second %= first) == 0)
-                return first;
-    }
-}
+//class SecondClass {
+//    public static void main(String[] args) {
+//        int getGreatestCommonDivisor = div(11,12);
+//        System.out.println(getGreatestCommonDivisor);
+//    }
+//
+//    static int div(int first, int second) {
+//        if (first < 10 || second < 10)
+//            return -1;
+//        if (first == 0)
+//            return -1;
+//        if (second == 0)
+//            return -1;
+//        for (; ; )
+//            if ((first %= second) == 0)
+//                return second;
+//            else if ((second %= first) == 0)
+//                return first;
+//    }
+//}
 
 
 //8. Write a program which prints the next figure to the console:

@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/HomeWork2/SecondClass.java" line="118" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aab6835b-3afb-48fa-8914-2a45ee03aae4" name="Default Changelist" comment="first commit">
+    <list default="true" id="aab6835b-3afb-48fa-8914-2a45ee03aae4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork4/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork4/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork2/SecondClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork2/SecondClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/HomeWork2/SecondClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HomeWork2/SecondClass.class" afterDir="false" />
@@ -43,14 +45,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork2/SecondClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="218" column="36" selection-start-line="218" selection-start-column="36" selection-end-line="218" selection-end-column="36" />
+            <state relative-caret-position="261">
+              <caret line="224" selection-start-line="224" selection-end-line="224" />
               <folding>
-                <marker date="1569430476493" expanded="true" signature="7316:7829" ph="..." />
+                <marker date="1569573996734" expanded="true" signature="5595:6186" ph="..." />
+                <marker date="1569573996734" expanded="true" signature="8223:8736" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork4/Program.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork4/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -82,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/main/java/HomeWork1/HomeWork1.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork2/package-info.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork2/SecondClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeWork4/Person.java" />
       </list>
     </option>
   </component>
@@ -109,7 +131,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,20 +162,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWork1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MainProgect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MainProgect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWork2" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -255,14 +269,28 @@
       <option name="project" value="LOCAL" />
       <updated>1569323854282</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="first commit">
+      <created>1569430588448</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569430588448</updated>
+    </task>
+    <task id="LOCAL-00008" summary="first commit">
+      <created>1569489385608</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569489385608</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1337953" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1359275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -271,7 +299,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2979415" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2979415" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -279,7 +307,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.38678223" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.35960045" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.35861322" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -331,11 +359,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork2/SecondClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="218" column="36" selection-start-line="218" selection-start-column="36" selection-end-line="218" selection-end-column="36" />
+        <state relative-caret-position="261">
+          <caret line="224" selection-start-line="224" selection-end-line="224" />
           <folding>
-            <marker date="1569430476493" expanded="true" signature="7316:7829" ph="..." />
+            <marker date="1569573996734" expanded="true" signature="5595:6186" ph="..." />
+            <marker date="1569573996734" expanded="true" signature="8223:8736" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork4/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork4/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
