@@ -21,17 +21,16 @@ package HomeWork4;
          }
              return j;
          }
-     public double PrintPage() {
+     public int PrintPage() {
          int b = pages;
-         b++;{
+         b++;
              System.out.println("Printed page # " + b);
-         }
          return b;
      }
          public static void main (String[]args){
              Printer ton = new Printer(98, 100);
              int result = ton.fillToner();
              Printer prin = new Printer(100, 85);
-             double result2 = prin.PrintPage();
+             int result2 = prin.PrintPage();
          }
      }
