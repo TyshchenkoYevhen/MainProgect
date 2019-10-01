@@ -19,7 +19,18 @@ public class Car extends Vehicle{
     }
     public void gear (int gear) {
         this.CurrentGear = gear;
-            System.out.println("USing " + CurrentGear + " gear.");
+        if (gear == 1){
+            System.out.println("Using " + CurrentGear + " gear.");
+        }
+        if (gear == 2){
+            System.out.println("Using " + CurrentGear + " gear.");
+        }
+        if (gear == 3){
+            System.out.println("Using " + CurrentGear + " gear.");
+        }
+        if (gear == 4){
+            System.out.println("Using " + CurrentGear + " gear.");
+        }
     }
     public static void main(String [] args) {
         Car mers = new Car (1, 2, 1);
@@ -27,7 +38,7 @@ public class Car extends Vehicle{
         int voil = mers.getCurrentVelocity();
 
         Car ford = new Car (1, 2, 1);
-        ford.move(10, -90);
+        ford.move(40, 180);
         int voil1 = ford.getCurrentVelocity();
 
         Car bmw = new Car (1, 2, 1);
