@@ -1,14 +1,14 @@
 package HomeWork5;
 
-public class Arrays {
-    public static void main(String[] args) {
-        int[] Array = new int[]{1, 35, 56, 15, 99};
-        for (int i : Array) {
-            System.out.println(i);
-
-        }
-    }
-}
+//public class Arrays {
+//    public static void main(String[] args) {
+//        int[] Array = new int[]{1, 35, 56, 15, 99};
+//        for (int i : Array) {
+//            System.out.println(i);
+//
+//        }
+//    }
+//}
 
 
 //public class Arrays {

@@ -1,8 +1,8 @@
-package HomeWork5;
-
-public enum KindOfSport {
-    FOOTBALL,
-    VOLYEBALL,
-    BASKETBALL,
-    HOCKEY;
-}
+//package HomeWork5;
+//
+//public enum KindOfSport {
+//    FOOTBALL,
+//    VOLYEBALL,
+//    BASKETBALL,
+//    HOCKEY;
+//}
