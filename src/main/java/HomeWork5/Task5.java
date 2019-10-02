@@ -1,11 +1,17 @@
 package HomeWork5;
 
+import java.util.ArrayList;
+
 public class Task5 {
     public static void main(String[] args) {
-        String[] Array5 = new String[]{"Yevhen", "Roman", "Dmytriy", "Maria", "Taras"};
-        int k = Array5.length;
-        System.out.println("Size: " + k);
-        for (String i : Array5) {
+        ArrayList <String> Names = new ArrayList<>();
+        Names.add("Yevhen");
+        Names.add("Roman");
+        Names.add("Dmytriy");
+        Names.add("Maria");
+        Names.add("Taras");
+        System.out.println(Names.size());
+        for (String i : Names) {
             System.out.println(i);
 
         }
