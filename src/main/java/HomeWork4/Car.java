@@ -44,6 +44,8 @@ public class Car extends Vehicle{
         Car bmw = new Car (1, 2, 1);
         bmw.move(10, 90);
         int voil2 = bmw.getCurrentVelocity();
+
+
     }
     public int getCurrentGear() {
         return CurrentGear;
