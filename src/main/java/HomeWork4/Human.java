@@ -29,7 +29,7 @@ public class Human {
         }
         public SomePerson(String firstName, int weight, int height, int age)
         {
-            this.lastName = "Tyshchenko";
+            this.firstName = "Tyshchenko";
             this.weight = 87;
             this.height = 180;
             this.age = 37;
