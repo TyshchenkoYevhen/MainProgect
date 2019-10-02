@@ -1,6 +1,6 @@
 package HomeWork4;
 
-public class Car extends Vehicle{
+public class Car<CurrentGear> extends Vehicle{
     int handsteer;
     int gear;
     int headlights;
@@ -19,18 +19,30 @@ public class Car extends Vehicle{
     }
     public void gear (int gear) {
         this.CurrentGear = gear;
-        if (gear == 1){
-            System.out.println("Using " + CurrentGear + " gear.");
+//        if (gear == 1){
+//            System.out.println("Using " + CurrentGear + " gear.");
+//        }
+//        if (gear == 2){
+//            System.out.println("Using " + CurrentGear + " gear.");
+//        }
+//        if (gear == 3){
+//            System.out.println("Using " + CurrentGear + " gear.");
+//        }
+//        if (gear == 4){
+//            System.out.println("Using " + CurrentGear + " gear.");
+//        }
+        switch (gear){
+            case 1: System.out.println ("Gear 1"); break;
+            case 2: System.out.println ("Gear 2"); break;
+            case 3: System.out.println ("Gear 3"); break;
+            case 4: System.out.println ("Gear 4"); break;
+            default: System.out.println("Something wrong. Please, check a gear!");
         }
-        if (gear == 2){
-            System.out.println("Using " + CurrentGear + " gear.");
-        }
-        if (gear == 3){
-            System.out.println("Using " + CurrentGear + " gear.");
-        }
-        if (gear == 4){
-            System.out.println("Using " + CurrentGear + " gear.");
-        }
+
+
+
+
+
     }
     public static void main(String [] args) {
         Car mers = new Car (1, 2, 1);

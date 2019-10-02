@@ -16,7 +16,7 @@ public class SpecificCar extends Car {
 
     public static void main (String [] args){
         SpecificCar mersA = new SpecificCar(true);
-        mersA.gear(4);
+        mersA.gear(6);
         int bright = mersA.getCurrentGear();
     }
 }
