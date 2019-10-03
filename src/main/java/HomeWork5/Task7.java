@@ -19,7 +19,10 @@ public class Task7 {
         myHashMap.put("potato", "vegetable");
         myHashMap.put("carrot", "vegetable");
 
-        for (Map.Entry<String, String> entry : myHashMap.entrySet())
-            System.out.println(entry.getKey() + " - " + entry.getValue() + myHashMap.containsValue("vegetable"));
+        for (Map.Entry entry : myHashMap.entrySet()) {
+            if (entry.getValue() == "vegetable" )
+            System.out.println("Key: " + entry.getKey() + " Value: " + entry.getValue());
+            }
+        }
     }
-}
+
