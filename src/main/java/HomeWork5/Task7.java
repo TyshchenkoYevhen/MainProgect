@@ -20,6 +20,6 @@ public class Task7 {
         myHashMap.put("carrot", "vegetable");
 
         for (Map.Entry<String, String> entry : myHashMap.entrySet())
-            System.out.println(entry.getKey() + " - " + entry.getValue());
+            System.out.println(entry.getKey() + " - " + entry.getValue() + myHashMap.containsValue("vegetable"));
     }
 }

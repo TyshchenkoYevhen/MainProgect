@@ -38,11 +38,6 @@ public class Car<CurrentGear> extends Vehicle{
             case 4: System.out.println ("Gear 4"); break;
             default: System.out.println("Something wrong. Please, check a gear!");
         }
-
-
-
-
-
     }
     public static void main(String [] args) {
         Car mers = new Car (1, 2, 1);

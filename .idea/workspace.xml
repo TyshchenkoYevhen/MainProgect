@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aab6835b-3afb-48fa-8914-2a45ee03aae4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork5/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array9/length.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork4/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork4/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork5/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork5/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork5/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork5/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork5/Task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork5/Task8.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,29 +33,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork4/Vehicle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork4/Car.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork5/Task7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="39" column="79" selection-start-line="39" selection-start-column="79" selection-end-line="39" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork4/SpecificCar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="289">
+              <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#191#207#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,13 +90,17 @@
         <option value="$PROJECT_DIR$/src/main/java/HomeWork5/Arrays.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork4/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork5/Task4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/HomeWork5/Task6.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork5/MapTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/HomeWork5/Task7.java" />
-        <option value="$PROJECT_DIR$/src/main/java/HomeWork5/Task8.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork4/Human.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork5/Task5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeWork4/SpecificCar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeWork5/Task7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/array9/length.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeWork5/Task9.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeWork5/Task6.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork4/Car.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeWork5/Task8.java" />
       </list>
     </option>
   </component>
@@ -206,6 +202,9 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="array9" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GitHubJava\MainProgect\src\main\java\HomeWork1" />
     </key>
@@ -223,8 +222,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="SpecificCar" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork4.SpecificCar" />
+    <configuration name="Task8" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork5.Task8" />
       <module name="MainProgect" />
       <extension name="coverage">
         <pattern>
@@ -395,14 +394,21 @@
       <option name="project" value="LOCAL" />
       <updated>1570039294216</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="first commit">
+      <created>1570040672295</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1570040672295</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.26172706" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.26172706" />
       <window_info id="Structure" order="1" sideWeight="0.5005417" side_tool="true" weight="0.25906184" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -411,15 +417,15 @@
       <window_info id="Favorites" order="6" sideWeight="0.5005417" side_tool="true" weight="0.25906184" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36619717" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40843508" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.24702059" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.4073252" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.38678223" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010661" side_tool="true" weight="0.36619717" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3575298" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3564464" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -431,24 +437,24 @@
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32995737" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1359275" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.28299713" />
+      <window_info id="Structure" order="1" sideWeight="0.5005417" side_tool="true" weight="0.25906184" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.5005417" side_tool="true" weight="0.25906184" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2979415" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.15760267" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.4073252" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.38678223" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010661" side_tool="true" weight="0.36619717" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.35861322" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3573807" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -457,6 +463,7 @@
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32995737" />
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
@@ -479,10 +486,10 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/HomeWork5/Task8.java</url>
-          <line>24</line>
+          <url>file://$PROJECT_DIR$/src/main/java/HomeWork5/Task7.java</url>
+          <line>21</line>
           <properties />
-          <option name="timeStamp" value="18" />
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -551,13 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork5/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -572,40 +572,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork5/Task7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#191#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork5/MapTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="54" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="72" />
           <folding>
             <element signature="e#172#188#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork5/Task6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="e#1056#1064#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -627,16 +599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork5/Task8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding>
-            <marker date="1570027836478" expanded="true" signature="22:719" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork5/Task5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -644,24 +606,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork4/Vehicle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/array9/length.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="34">
+          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork4/SpecificCar.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork5/Task6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="316">
+          <caret line="46" column="48" lean-forward="true" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork4/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="39" column="79" selection-start-line="39" selection-start-column="79" selection-end-line="39" selection-end-column="79" />
+        <state relative-caret-position="459">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork4/SpecificCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork4/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="28" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork5/Task9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork5/Task8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1570104399036" expanded="true" signature="121:967" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork5/Task7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#191#207#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -704,6 +723,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
