@@ -12,6 +12,7 @@ public class Task6_2 {
             return a / b;
         } catch (Exception e) {
             e.printStackTrace();
+            System.out.println("Dividing on zero is unpossible");
         }
         return 0;
     }
