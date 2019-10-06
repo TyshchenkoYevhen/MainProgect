@@ -23,13 +23,15 @@ public class Task6_6 {
             while (true) {
                 System.out.println("Again number :");
                 a = sc.nextInt();
+                arrTest.add(a);
             }
         } catch (InputMismatchException e) {
             System.out.println("Value can't be text");
             e.printStackTrace();
         }
-        for (int i = 0; i < arrTest.size(); i++ )
+
         System.out.println(arrTest);
+
     }
 }
 
