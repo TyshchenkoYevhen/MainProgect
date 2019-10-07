@@ -5,15 +5,18 @@ package HomeWork6;
 
 public class Task6_5 {
 
-        public static void main(String[] args) throws NullPointerException {
-            iCanThrowException();
-
+        public static void main(String[] args)
+        {
+            try {
+                iCanThrowException();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
 
         public static void iCanThrowException() {
-            System.out.println(x);
+             throw new NullPointerException("Parameter Type cannot be null");
 
         }
-
     }
 
