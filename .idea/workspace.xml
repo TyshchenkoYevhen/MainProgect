@@ -4,9 +4,14 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/HomeWork2/SecondClass.java" line="118" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aab6835b-3afb-48fa-8914-2a45ee03aae4" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork7/Task7_1.java" afterDir="false" />
+    <list default="true" id="aab6835b-3afb-48fa-8914-2a45ee03aae4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork7/ClassToTestA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork7/SaveTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork7/SaveTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork7/Saver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork7/Saver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork7/Task7_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork7/Task7_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork7/Task7_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork7/Task7_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork7/TextContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork7/TestConteiner.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,12 +35,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork7/Task7_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+            <state relative-caret-position="218">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,6 +56,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SaveTo</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -104,6 +114,14 @@
         <option value="$PROJECT_DIR$/src/main/java/HomeWork6/Task6_5.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork6/Task6_7.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork6/Task6_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeWork7/HomeWork7_1_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeWork7/ClassToTestA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeWork7/TextContainer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeWork7/TextConteiner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeWork7/Task7_3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeWork7/TestConteiner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeWork7/Saver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeWork7/SaveTo.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork7/Task7_1.java" />
       </list>
     </option>
@@ -127,8 +145,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="766" />
-    <option name="y" value="13" />
+    <option name="x" value="595" />
+    <option name="y" value="400" />
     <option name="width" value="1161" />
     <option name="height" value="1034" />
   </component>
@@ -140,7 +158,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -181,10 +198,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MainProgect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MainProgect" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -215,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Car">
+  <component name="RunManager" selected="Application.Task7_1">
     <configuration name="Car" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork4.Car" />
       <module name="MainProgect" />
@@ -242,10 +265,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task7_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork7.Task7_1" />
+      <module name="MainProgect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Task6_2" />
       <item itemvalue="Application.Car" />
+      <item itemvalue="Application.Task7_1" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task7_1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -489,14 +531,28 @@
       <option name="project" value="LOCAL" />
       <updated>1570445479970</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="first commit">
+      <created>1570655653857</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1570655653857</updated>
+    </task>
+    <task id="LOCAL-00035" summary="first commit">
+      <created>1570712836302</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1570712836302</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.13432837" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.13539445" />
       <window_info id="Structure" order="1" sideWeight="0.5005417" side_tool="true" weight="0.25906184" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -505,7 +561,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5005417" side_tool="true" weight="0.25906184" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.3217768" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.3217768" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.248104" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -525,7 +581,7 @@
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32995737" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.13219616" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.13539445" />
       <window_info id="Structure" order="1" sideWeight="0.5005417" side_tool="true" weight="0.25906184" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -534,8 +590,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.5005417" side_tool="true" weight="0.25906184" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.34019503" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.40628386" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.3217768" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.248104" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -578,6 +634,12 @@
           <line>8</line>
           <properties />
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/HomeWork7/Task7_3.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -853,14 +915,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork7/HomeWork7_1_1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork7/ClassToTestA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/HomeWork7/TestConteiner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#1377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork7/Saver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#299#0" expanded="true" />
+            <marker date="1570737913228" expanded="true" signature="2:296" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork7/SaveTo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork7/TestConteiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#402#0" expanded="true" />
+            <marker date="1570737772629" expanded="true" signature="2:396" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork7/Task7_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1759#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork7/Task7_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        <state relative-caret-position="218">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
           </folding>
         </state>
       </provider>

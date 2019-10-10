@@ -1,4 +1,4 @@
-package HomeWork7;
+/*package HomeWork7;
 
 
 import java.io.FileWriter;
@@ -27,11 +27,10 @@ public class Task7_3 {
             }
         }
     }
-}
+}*/
 
-/*---------------------------
 
-@Inherited
+/*@Inherited
 @Retention(value = RetentionPolicy.RUNTIME)
 public @interface SaveTo {
     String PATH(); // = "/home/roman/ROMA/JAVA/ProgKievUa/HW1 Refl 13.10/Task2/file.txt";
