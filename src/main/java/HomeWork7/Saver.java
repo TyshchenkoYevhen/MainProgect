@@ -1,15 +1,18 @@
-/*package HomeWork7;
-
 package HomeWork7;
 
-import java.lang.annotation.ElementType;
-import java.lang.annotation.Retention;
-import java.lang.annotation.RetentionPolicy;
-import java.lang.annotation.Target;
+import java.io.*;
 
-@Target(ElementType.METHOD)
-@Retention(RetentionPolicy.RUNTIME)
-public @interface Saver {
+@SaveTo(path = "d:\\file.txt", method = "save")
+public class Saver {
+    public static void save (String filename){
+        try {
+            FileWriter writer = new FileWriter(filename);
+            writer.write(TextContainer.text);
+            writer.close();
 
+        } catch(IOException ex) {
+            ex.printStackTrace();
+        }
+
+    }
 }
-*/

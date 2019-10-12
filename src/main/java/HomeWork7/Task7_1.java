@@ -1,4 +1,4 @@
-package HomeWork7;
+/*package HomeWork7;
 
 //1. Создать аннотацию, которая принимает параметры для метода. Написать код, который вызовет метод, помеченный этой аннотацией, и передаст параметры аннотации в вызываемый метод.
 
@@ -15,8 +15,8 @@ import java.lang.reflect.Method;
     int b();
 }
 
-class Sum {
-    @Test(a = 38, b = 5)
+class SumNum {
+    @Test(a = 2, b = 5)
     public static void test(int a, int b) {
         System.out.println("a + b = " + (a + b));
     }
@@ -25,7 +25,7 @@ class Sum {
 public class Task7_1 {
     public static void main(String[] args) {
         try {
-            Class<?> cls = Sum.class;
+            Class<?> cls = SumNum.class;
             Method method = cls.getMethod("test", int.class, int.class);
             if (method.isAnnotationPresent(Test.class)) {
 
@@ -36,4 +36,4 @@ public class Task7_1 {
             System.out.println(e.toString());
         }
     }
-}
+}*/
