@@ -1,0 +1,198 @@
+XPath
+//img[contains(@src,'http://automationpractice.com/modules/blockbanner/img/sale70.png')]
+CSS
+.row > a > .img-responsive
+
+**************
+XPath
+//div[@id = "header_logo"]/a/img
+CSS
+img.logo
+div#header_logo img.logo
+**************
+
+XPath
+//input[@id='search_query_top']
+CSS
+#search_query_top
+**************
+
+XPath
+//button[@name='submit_search']
+//button[@type='submit'] [@name='submit_search']
+CSS
+.button-search
+button.button-search
+button[name="submit_search"] //полное совпадение
+button[name^="submit"] //начинается с
+button[name$="it_search"] //заканчивается на
+button[name*="it_sea"] //в средине
+button[name~="it_search"]
+
+**************
+XPath
+//b[contains(text(),'Cart')]
+CSS
+.shopping_cart b
+div.shopping_cart b
+div.shopping_cart span.ajax_cart_no_product
+
+**************
+XPath
+//div[@id='contact-link']//a[contains(text(),'Contact us')]
+CSS
+#contact-link > a
+
+**************
+XPath
+//a[contains(text(),'Sign in')]
+CSS
+.login
+
+**************
+XPath
+//a[@title='Women']
+CSS
+a[title='Women']
+
+**************
+XPath
+//a[@title='Dresses']
+CSS
+a[title='Dresses']
+
+**************
+
+XPath
+(//a[contains(text(),'Dresses')])[5]
+CSS
+
+**************
+T-SHIRTS
+XPath
+(//a[contains(text(),'T-shirts')])[2]
+CSS
+
+**************
+XPath
+//i[@class="icon-home"]
+CSS
+.icon-home
+
+**************
+XPath
+//span[@class="navigation_page"]
+CSS
+.navigation_page
+
+**************
+XPath
+//h1[@class="page-heading"]
+CSS
+.page-heading
+
+**************
+XPath
+//h3[contains(text(),"Create an account")]
+CSS
+#create-account_form > .page-subheading
+
+**************
+XPath
+//p[contains(text(),'Please enter your email address to create an account.')]
+CSS
+.form_content > p:nth-child(1)
+
+**************
+XPath
+//label[@for="email_create"]
+CSS
+.form-group:nth-child(3) > label
+
+**************
+XPath
+//input[@id='email_create']
+CSS
+#email_create
+
+**************
+XPath
+//button[@class='btn btn-default button button-medium exclusive']
+CSS
+#SubmitCreate
+#SubmitCreate >span
+
+**************
+XPath
+//h3[contains(text(), 'Already registered?')]
+CSS
+#login_form > .page-subheading
+#login_form h3:nth-of-type(1)
+
+**************
+XPath
+//label[@for="email"]
+CSS
+.form-group:nth-child(1) > label
+
+**************
+XPath
+//input[@id='email']
+CSS
+#email
+label[for='email']
+*************
+XPath
+//label[@for="passwd"]
+CSS
+label[for='passwd']
+
+*******************
+XPath
+//form[@id='login_form']/div/div[2]/span/input
+CSS
+#passwd
+input[id='passwd']
+
+*******************
+XPath
+//a[@title='Recover your forgotten password']
+//a[contains(text(),'Forgot your password?')]
+//a[@href='http://automationpractice.com/index.php?controller=password']
+CSS
+a[title = 'Recover your forgotten password']
+.lost_password > a
+
+*******************
+XPath
+//button[@id='SubmitLogin']
+//p[2]/button/span
+CSS
+#SubmitLogin
+#SubmitLogin > span
+
+*******************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
