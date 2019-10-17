@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aab6835b-3afb-48fa-8914-2a45ee03aae4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork8/XPath/XPath CSS locators" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork9/WebDriverExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,11 +28,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork8/XPath/XPath CSS locators">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="67" column="246" selection-start-line="67" selection-start-column="246" selection-end-line="67" selection-end-column="246" />
+            <state relative-caret-position="861">
+              <caret line="173" column="19" selection-start-line="173" selection-start-column="19" selection-end-line="173" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork9/WebDriverExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -65,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/HomeWork2/SecontClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork1/HomeWork1.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork2/package-info.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork2/SecondClass.java" />
@@ -91,7 +112,6 @@
         <option value="$PROJECT_DIR$/src/main/java/array9/length.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork5/Task6.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork4/Car.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork5/Task8.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork5/Task7.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork5/Task10.java" />
@@ -116,6 +136,8 @@
         <option value="$PROJECT_DIR$/src/main/java/HomeWork7/Task7_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork7/Task7_3.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomeWork8/XPath/XPath CSS locators" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/HomeWork9/WebDriverExample.java" />
       </list>
     </option>
   </component>
@@ -151,69 +173,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MainProgect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MainProgect" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MainProgect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MainProgect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MainProgect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MainProgect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MainProgect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MainProgect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MainProgect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MainProgect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="array9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MainProgect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MainProgect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="XPath" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MainProgect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MainProgect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MainProgect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MainProgect" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/HomeWork7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -243,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task7_3">
+  <component name="RunManager" selected="JUnit.WebDriverExample.runDriver">
     <configuration name="Car" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork4.Car" />
       <module name="MainProgect" />
@@ -296,14 +263,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebDriverExample.runDriver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MainProgect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HomeWork9" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork9.WebDriverExample" />
+      <option name="METHOD_NAME" value="runDriver" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Task6_2" />
       <item itemvalue="Application.Car" />
       <item itemvalue="Application.Task7_1" />
       <item itemvalue="Application.Task7_3" />
+      <item itemvalue="JUnit.WebDriverExample.runDriver" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WebDriverExample.runDriver" />
         <item itemvalue="Application.Task7_3" />
         <item itemvalue="Application.Task7_1" />
       </list>
@@ -579,14 +564,20 @@
       <option name="project" value="LOCAL" />
       <updated>1570914702120</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="first commit">
+      <created>1571002430997</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1571002430997</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.1380597" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.13965885" />
       <window_info id="Structure" order="1" sideWeight="0.5005417" side_tool="true" weight="0.25906184" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -690,7 +681,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork2/SecontClass.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork2/package-info.java" />
     <entry file="file://$PROJECT_DIR$/src/main/HomeWork4" />
     <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork4/package-info.java" />
@@ -783,13 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -958,13 +941,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork7/HomeWork7_1_1.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork7/ClassToTestA.java" />
     <entry file="file://$PROJECT_DIR$/target/classes/HomeWork7/TestConteiner.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork7/Task7_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork7/SaveTo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1033,8 +1009,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork8/XPath/XPath CSS locators">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="67" column="246" selection-start-line="67" selection-start-column="246" selection-end-line="67" selection-end-column="246" />
+        <state relative-caret-position="861">
+          <caret line="173" column="19" selection-start-line="173" selection-start-column="19" selection-end-line="173" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork7/Task7_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomeWork9/WebDriverExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
