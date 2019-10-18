@@ -35,6 +35,8 @@ public class Task9_1 {
                         testPage.enterFirstName ();
                         testPage.enterLastName ();
                         testPage.enterEmailAgain ();
+                        testPage.firstName();
+                        testPage.lastName();
                         testPage.company();
                         testPage.address();
                         testPage.city();
